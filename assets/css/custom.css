@@ -35,22 +35,29 @@
 	.time-count{
 		margin-left: 10%;
 	}
-  .mobile-mb-25{
-    margin-bottom: 25px !important;
-  }
 	.mt-mobile{
 		margin-top: 100px !important;
 	}
-  .navbar {
-    min-height: 95px;
-  }
-  .m-15{
-    margin: 15px;
-  }
+        .mobile-mb-25{
+            margin-bottom: 25px !important;
+          }
+        .navbar {
+            min-height: 95px;
+          }
+          .m-15{
+            margin: 15px;
+          }
 	.pl-65{
 		padding-left: 0 !important;
 		margin: 20px;
 	}
+        #contact .contact-form {
+           max-height:730px;
+        }
+        #contact button{
+            margin-bottom:30px;
+        }
+
   .sam{
     margin-bottom: 27px;
   }
@@ -83,9 +90,6 @@ footer{
 }
 .mt-150{
 	margin-top: 150px;
-}
-.mt-100{
-  margin-top: 100px;
 }
 .mt-250{
 	margin-top: 250px;
